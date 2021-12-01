@@ -1,0 +1,7 @@
+{
+  "name": "Javascript_Node_Algo",
+  "version": "1.0.0",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
